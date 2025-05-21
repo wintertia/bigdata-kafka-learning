@@ -61,7 +61,7 @@ docker-compose exec kafka kafka-topics --list --bootstrap-server localhost:9092
 
 Bila dilihat menggunakan `docker exec` akan terlihat bahwa kedua topik berhasil dibuat di dalam container:
 
-![topics](assets/image.png)
+![topics](assets/image_1.png)
 
 ### 2. Simulasi Data Sensor (Kafka Producer)
 
